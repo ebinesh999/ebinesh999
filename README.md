@@ -1,8 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm Ebinesh Murukesan</h1>
-<h3 align="center">Software Engineering Graduate with a passion for Innovation and Problem Solving</h3>
+<h1 align="center">Hi 👋, I'm Ebinesh M</h1>
+<h3 align="center">Computer Science Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ebinesh_m9" target="blank"><img src="https://img.shields.io/twitter/follow/@ebinesh_m9?logo=twitter&style=for-the-badge" alt="@ebinesh_m9" /></a> </p>
 
-- 🔭 I’m Pursuing on **B.E CSE**
+- 🔭 I’m did  **B.E CSE**
 
 - 🌱 I’m currently learning **Computer Technologies**
 
