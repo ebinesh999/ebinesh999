@@ -1,41 +1,245 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+```
+███████████████████████████████████████████████████████████████
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█░ ╔═══════════════════════════════════════════════════════╗ █
+█░ ║  ██████╗  ██████╗ ██████╗ █████╗ ██████╗ ███╗   ██╗ ║ █
+█░ ║  ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗████╗  ██║ ║ █
+█░ ║  ██║  ██║██║     ██║     ███████║██║  ██║██╔██╗ ██║ ║ █
+█░ ║  ██║  ██║██║     ██║     ██╔══██║██║  ██║██║╚██╗██║ ║ █
+█░ ║  ██████╔╝╚██████╗╚██████╗██║  ██║██████╔╝██║ ╚████║ ║ █
+█░ ║  ╚═════╝  ╚═════╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═══╝ ║ █
+█░ ║  [CTRL_PANEL_v2.0] // EBINESH MAVERICK MODE:ACTIVE  ║ █
+█░ ╚═══════════════════════════════════════════════════════╝ █
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+███████████████████████████████████████████████████████████████
+```
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ebinesh M</h1>
-<h3 align="center">Computer Science Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Profile Views](https://komarev.com/ghpvc/?username=ebinesh999&style=flat-square&color=00ff00)
+![GitHub followers](https://img.shields.io/github/followers/ebinesh999?style=flat-square&color=00ff00&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/ebinesh999?style=flat-square&color=00ff00)
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebinesh999&label=Profile%20views&color=0e75b6&style=flat" alt="ebinesh999" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/@ebinesh_m9" target="blank"><img src="https://img.shields.io/twitter/follow/@ebinesh_m9?logo=twitter&style=for-the-badge" alt="@ebinesh_m9" /></a> </p>
+## 🔓 SYSTEM BREACH DETECTED 🔓
 
-- 🔭 I’m did  **B.E CSE**
+```
+> whoami
+Ebinesh M | Coder | Software Developer | Tech Enthusiast
+System Status: ONLINE ✓
+Threat Level: CREATIVE_GENIUS
+Terminal Mode: ACTIVE █████████░ 100%
+```
 
-- 🌱 I’m currently learning **Computer Technologies**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ebinesh999](https://github.com/ebinesh999)
+## 🎮 PLAYER STATS
 
-- 💬 Ask me about **Believe in yourself and you will be unstoppable**
+<div align="center">
 
-- 📫 How to reach me **ebinezerrule@gmail.com**
+| ATTRIBUTE | LEVEL | PROGRESS |
+|-----------|-------|----------|
+| **CODE_WARRIOR** | 6 | ████████░ 80% |
+| **PROBLEM_SOLVER** | 7 | █████████░ 90% |
+| **TECH_STACK** | 8 | ██████████ 100% |
+| **INNOVATION** | 7 | █████████░ 85% |
+| **COLLABORATION** | 6 | ████████░ 75% |
 
-- ⚡ Motivational **You can do anything you set your mind to**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ebinesh_m9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ebinesh_m9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebineshmaverick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebineshmaverick" height="30" width="40" /></a>
-<a href="https://instagram.com/tamil_pathavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamil_pathavan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@karuthukutty1861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@karuthukutty1861" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ebinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ebinesh" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🏆 ACHIEVEMENTS UNLOCKED
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebinesh999&show_icons=true&locale=en&layout=compact" alt="ebinesh999" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebinesh999&show_icons=true&locale=en" alt="ebinesh999" /></p>
+[![Achievement](https://img.shields.io/badge/📜-BE_CSE_GRADUATE-ff00ff?style=for-the-badge&labelColor=1a1a1a)](https://github.com/ebinesh999)
+[![Achievement](https://img.shields.io/badge/🔧-FULL_STACK_DEVELOPER-00ffff?style=for-the-badge&labelColor=1a1a1a)](https://github.com/ebinesh999)
+[![Achievement](https://img.shields.io/badge/🎯-PROBLEM_SOLVER-ff0080?style=for-the-badge&labelColor=1a1a1a)](https://github.com/ebinesh999)
+[![Achievement](https://img.shields.io/badge/💻-CODE_MASTER-00ff00?style=for-the-badge&labelColor=1a1a1a)](https://github.com/ebinesh999)
+[![Achievement](https://img.shields.io/badge/🚀-INNOVATION_KNIGHT-ffaa00?style=for-the-badge&labelColor=1a1a1a)](https://github.com/ebinesh999)
+[![Achievement](https://img.shields.io/badge/⚡-SPEED_CODER-00ffff?style=for-the-badge&labelColor=1a1a1a)](https://github.com/ebinesh999)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebinesh999&" alt="ebinesh999" /></p>
+</div>
+
+---
+
+## 📊 SYSTEM ANALYTICS
+
+<div align="center">
+
+```
+HACKING INTO GITHUB STATISTICS...
+████████████████████████ 100%
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebinesh999&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ebinesh999&theme=radical&hide_border=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ebinesh999&theme=radical&hide_border=true&background=000000&ring=00ff00&fire=ff0000&currStreakNum=00ff00&sideNums=00ffff&currStreakLabel=00ffff&dates=00ffff)
+
+</div>
+
+---
+
+## ⚙️ TECH ARSENAL
+
+### 🛡️ FRONT-END WEAPONS
+```
+[████████░░] HTML5       [████████░░] CSS3
+[████████░░] JavaScript  [██████████] React.js
+[████████░░] Angular     [██████░░░░] Bootstrap
+[████████░░] React Native [██████░░░░] Flutter
+```
+
+### 🔌 BACK-END WEAPONS
+```
+[████████░░] Node.js     [██████████] Java
+[██████░░░░] Spring      [████████░░] Python
+[████████░░] MongoDB     [████████░░] MySQL
+[████████░░] Express.js  [██████░░░░] Pandas
+```
+
+### 🧠 SPECIALIZED SKILLS
+```
+[████████░░] Git/GitHub       [█████░░░░░] Linux
+[████████░░] Problem Solving  [████████░░] DSA
+[███████░░░] Database Design  [████████░░] API Development
+[██████░░░░] UI/UX Design     [███████░░░] Cloud Basics
+```
+
+### 🎨 CREATIVE TOOLS
+```
+[████████░░] C/C++       [██████████] Web Development
+[████████░░] UI Design   [███████░░░] Game Dev (Unity)
+[████████░░] Responsive  [████████░░] Cross-Platform
+```
+
+---
+
+## 🔥 FEATURED EXPLOITS (PROJECTS)
+
+<div align="center">
+
+> **🔗 All Projects Available at:** [github.com/ebinesh999](https://github.com/ebinesh999)
+
+```
+INITIALIZING PROJECT LOADER...
+████████████████████████ 100%
+```
+
+### Popular Repositories
+- 🎮 Full Stack Applications
+- 🤖 Machine Learning Models
+- 🌐 Web Development Projects
+- 📱 Mobile Applications
+- 🔐 Data Structures & Algorithms
+
+</div>
+
+---
+
+## 🚀 CURRENT MISSION
+
+```
+████████████████████░ 80%
+[■■■■■■■■■■░░░░░░░░] LEARNING PHASE
+
+> Status: Diving deep into COMPUTER TECHNOLOGIES
+> Focus: Advanced System Design & Cloud Architecture
+> Mindset: "You can code anything you set your mind to" 🎯
+```
+
+---
+
+## 📡 SIGNAL TRANSMISSION PROTOCOL
+
+### 🌐 Connection Methods
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=%40ebinesh_m9)](https://twitter.com/@ebinesh_m9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=ebineshmaverick)](https://linkedin.com/in/ebineshmaverick)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=tamil_pathavan)](https://instagram.com/tamil_pathavan)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=karuthukutty1861)](https://www.youtube.com/c/@karuthukutty1861)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3E50?style=for-the-badge&logo=hackerearth&logoColor=white&label=%40ebinesh)](https://www.hackerearth.com/@ebinesh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=ebinezerrule)](mailto:ebinezerrule@gmail.com)
+
+</div>
+
+---
+
+## 💭 PHILOSOPHY CORE
+
+```
+╔═══════════════════════════════════════════════════════╗
+║  "Believe in yourself and you will be unstoppable"   ║
+║                                                       ║
+║  Every line of code is a step towards greatness.     ║
+║  Every bug is a lesson. Every project is a victory.  ║
+║  Keep coding. Keep grinding. Keep innovating.        ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🎯 LIFE STATS
+
+```
+💡 Passion:        ████████████░░░░ INFINITE
+🔥 Dedication:     ████████████░░░░ 150%
+🚀 Motivation:     ████████████░░░░ UNSTOPPABLE
+📚 Learning Rate:  ████████████░░░░ EXTREME
+🎓 Growth:         ████████████░░░░ EXPONENTIAL
+```
+
+---
+
+## 🌟 RANDOM WISDOM
+
+> **"Code is poetry written for the machine to execute and humans to understand."**
+
+> **"The only way to do great work is to love what you do."**
+
+> **"Every master was once a beginner who never gave up."**
+
+---
+
+<div align="center">
+
+### 🔐 SECURITY STATUS: LOCKED & LOADED
+
+```
+[✓] FIREWALL_ACTIVE
+[✓] ANTI_SPAM_ENABLED
+[✓] CREATIVITY_MAXIMIZED
+[✓] PASSION_OVERFLOWING
+[✓] READY_FOR_ANYTHING
+```
+
+**Last Updated:** 2024  
+**Profile Status:** 🟢 FULLY_OPERATIONAL  
+**Next Mission:** CHANGE_THE_WORLD
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=00FF00&center=true&width=500&height=100&lines=Keep+Coding...;Stay+Awesome...;Build+Great+Things...;Happy+Hacking+!" alt="Typing SVG" />
+
+[![Visits Badge](https://badges.pufler.dev/visits/ebinesh999/ebinesh999)](https://badges.pufler.dev)
+
+**Made with 💚 by a passionate developer**
+
+</div>
+
+---
+
+```
+SYSTEM LOGOUT SEQUENCE...
+████████████████████████ 100%
+[CONNECTION_TERMINATED]
+[REMEMBER: The future belongs to those who code it]
+```
