@@ -1,0 +1,51 @@
+name: Update profile stat cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - ".github/workflows/profile-assets.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=ebinesh999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e&icon_color=0f766e
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=ebinesh999&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=ebinesh999&theme=tokyonight&hide_border=true&background=0d1117&stroke=0f766e&ring=0f766e&fire=0f766e
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg
+          git commit -m "Update profile stat cards" || exit 0
+          git push
