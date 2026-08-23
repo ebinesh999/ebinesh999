@@ -1,20 +1,24 @@
 <div align="center">
 
-# Ebinesh M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f766e&height=220&section=header&text=Ebinesh%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20·%20Data%20Engineering%20%26%20Cloud&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
-### Product Engineer · Data Engineering & Cloud Platforms · GenAI Enthusiast
+<a href="https://github.com/ebinesh999">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F766E&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+ETL+%7C+Cloud+Platforms;Building+on+DataSwitch+%F0%9F%9A%80;Exploring+GenAI+%2F+LLMs+%2F+AI+Engineering" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ebinesh999&style=flat-square&color=0f766e)
-![GitHub followers](https://img.shields.io/github/followers/ebinesh999?style=flat-square&color=0f766e&logo=github&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/ebinesh999?style=flat-square&color=0f766e&label=Stars)
+<br>
 
-[Email](mailto:ebineshm14@gmail.com) · [LinkedIn](https://linkedin.com/in/ebineshmaverick) · [GitHub](https://github.com/ebinesh999) · [Twitter](https://twitter.com/@ebinesh_m9)
+![Profile Views](https://komarev.com/ghpvc/?username=ebinesh999&style=for-the-badge&color=0f766e)
+![GitHub followers](https://img.shields.io/github/followers/ebinesh999?style=for-the-badge&color=0f766e&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/ebinesh999?style=for-the-badge&color=0f766e&label=Stars)
+
+**[📧 Email](mailto:ebineshm14@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/ebineshmaverick) · [🐙 GitHub](https://github.com/ebinesh999) · [🐦 Twitter](https://twitter.com/@ebinesh_m9)**
 
 </div>
 
 <br>
 
-## About Me
+## 🧭 About Me
 
 Product Engineer with **1.6+ years** of experience in a product-based environment, focused on **data engineering, ETL, SQL, cloud data platforms, and data migration solutions**. I build and optimize data transformation and conversion workflows using Python, Java, SQL, Airflow, Databricks, Snowflake, BigQuery, PostgreSQL, and Azure.
 
@@ -29,50 +33,66 @@ Beyond that, I have a full-stack development background (web + mobile) and a str
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Data Engineering & Cloud**
 
-![Python](https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f766e?style=flat-square&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-0f766e?style=flat-square&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-0f766e?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-0f766e?style=flat-square&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-0f766e?style=flat-square&logo=googlebigquery&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f766e?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0f766e?style=flat-square&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-0f766e?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-0f766e?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-0f766e?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-0f766e?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0f766e?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Languages & Backend**
 
-![Java](https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-1e293b?style=flat-square&logo=spring&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1e293b?style=flat-square&logo=cplusplus&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-1e293b?style=for-the-badge&logo=spring&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1e293b?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-475569?style=flat-square&logo=linux&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-475569?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-475569?style=for-the-badge&logo=linux&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-475569?style=for-the-badge&logo=pandas&logoColor=white)
 
 <br>
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Ebinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebinesh999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e&icon_color=0f766e)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ebinesh999&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebinesh999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e&icon_color=0f766e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh999&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ebinesh999&hide_border=true&theme=tokyonight&background=0d1117&stroke=0f766e&ring=0f766e&fire=0f766e)
+<img src="https://streak-stats.demolab.com?user=ebinesh999&hide_border=true&theme=tokyonight&background=0d1117&stroke=0f766e&ring=0f766e&fire=0f766e" />
 
 </div>
 
 <br>
 
-## LeetCode Stats
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebinesh999/ebinesh999/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebinesh999/ebinesh999/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ebinesh999/ebinesh999/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> ⚙️ This animated snake eats through your real contribution graph — it needs a small GitHub Action enabled once on your `ebinesh999/ebinesh999` repo. See **`snake-workflow-setup.md`** (sent alongside this file) for the 2-minute setup. Until enabled, this image just won't render — it won't break anything else.
+
+<br>
+
+## 🧩 LeetCode Stats
 
 <div align="center">
 
@@ -82,7 +102,7 @@ Beyond that, I have a full-stack development background (web + mobile) and a str
 
 <br>
 
-## Focus Areas
+## 🎯 Focus Areas
 
 | | |
 |---|---|
@@ -95,17 +115,17 @@ Beyond that, I have a full-stack development background (web + mobile) and a str
 
 <br>
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebineshmaverick)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebineshm14@gmail.com)
 
-</div>
-
-<div align="center">
+<br>
 
 *"Believe in yourself and you will be unstoppable."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
