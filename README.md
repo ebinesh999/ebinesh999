@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f766e&height=220&section=header&text=Ebinesh%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20·%20Data%20Engineering%20%26%20Cloud&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f766e&height=220&section=header&text=Ebinesh%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%7C%20Data%20Engineering%20and%20Cloud&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/ebinesh999">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F766E&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+ETL+%7C+Cloud+Platforms;Building+on+DataSwitch+%F0%9F%9A%80;Exploring+GenAI+%2F+LLMs+%2F+AI+Engineering" alt="Typing SVG" />
