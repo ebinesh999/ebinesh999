@@ -1,207 +1,115 @@
-# 🚀 **EBINESH M**
-
-### 💡 Computer Science Engineer | 🎨 Full Stack Developer | 🔥 Tech Innovator
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ebinesh999&style=flat-square&color=ff006e)
-![GitHub followers](https://img.shields.io/github/followers/ebinesh999?style=flat-square&color=ff006e&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/ebinesh999?style=flat-square&color=fb5607)
+# Ebinesh M
 
-**[📧 Email](mailto:ebinezerrule@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/ebineshmaverick) • [🐦 Twitter](https://twitter.com/@ebinesh_m9) • [💻 GitHub](https://github.com/ebinesh999) • [📸 Instagram](https://instagram.com/tamil_pathavan)**
+### Product Engineer · Data Engineering & Cloud Platforms · GenAI Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=ebinesh999&style=flat-square&color=0f766e)
+![GitHub followers](https://img.shields.io/github/followers/ebinesh999?style=flat-square&color=0f766e&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/ebinesh999?style=flat-square&color=0f766e&label=Stars)
+
+[Email](mailto:ebinezerrule@gmail.com) · [LinkedIn](https://linkedin.com/in/ebineshmaverick) · [GitHub](https://github.com/ebinesh999) · [Twitter](https://twitter.com/@ebinesh_m9)
 
 </div>
 
----
+<br>
 
-## 🎯 About Me
+## About Me
 
-```
-┌─────────────────────────────────────────┐
-│  A passionate developer building apps   │
-│  that solve real-world problems using   │
-│  modern technologies & best practices   │
-└─────────────────────────────────────────┘
-```
+Product Engineer with **1.6+ years** of experience in a product-based environment, focused on **data engineering, ETL, SQL, cloud data platforms, and data migration solutions**. I build and optimize data transformation and conversion workflows using Python, Java, SQL, Airflow, Databricks, Snowflake, BigQuery, PostgreSQL, and Azure.
 
-- 🎓 **B.E in Computer Science Engineering**
-- 💻 **Full Stack Developer** with expertise in web & mobile
-- 🌱 **Learning** Advanced System Design & Cloud Architecture
-- 🎯 **Mission** Building scalable, efficient solutions
-- 🌍 **Based in** India
+I'm currently contributing to **DataSwitch**, a data migration and conversion platform — working hands-on with expression translation, SQL transformation, ETL development, parser optimization, debugging, and migration across modern cloud data platforms. I also work with low-code/no-code platforms, metadata-driven design, and JSON-based configuration for automating data transformation.
 
----
+Beyond that, I have a full-stack development background (web + mobile) and a strong interest in **Generative AI, AI Engineering, and LLMs/SLMs** — my goal is to combine software and data engineering expertise to build scalable, AI-driven products.
 
-## 🛠️ **Technical Arsenal**
+- 🎓 B.E. in Computer Science Engineering, V.S.B Engineering College
+- 🔧 Currently building on **DataSwitch** — data migration & conversion platform
+- 🌱 Exploring Generative AI, LLM/SLM applications, and intelligent automation
+- 📍 Based in Chennai, India
 
-### **🎨 Frontend Weapons**
+<br>
 
-<table>
-<tr>
-<td>
+## Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4ECDC4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE66D?style=for-the-badge&logo=javascript&logoColor=black)
+**Data Engineering & Cloud**
 
-</td>
-<td>
+![Python](https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f766e?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-0f766e?style=flat-square&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-0f766e?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-0f766e?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-0f766e?style=flat-square&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f766e?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0f766e?style=flat-square&logo=microsoftazure&logoColor=white)
 
-![React](https://img.shields.io/badge/React-95E1D3?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-FF6B6B?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7209B7?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Languages & Backend**
 
-</td>
-</tr>
-</table>
+![Java](https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-1e293b?style=flat-square&logo=spring&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1e293b?style=flat-square&logo=cplusplus&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white)
 
-### **⚙️ Backend Weapons**
+**Web & Mobile**
 
-<table>
-<tr>
-<td>
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-334155?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-334155?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-334155?style=flat-square&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-334155?style=flat-square&logo=bootstrap&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-90EE90?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-FF6B6B?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=java&logoColor=white)
+**Tools**
 
-</td>
-<td>
+![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-475569?style=flat-square&logo=linux&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-475569?style=flat-square&logo=pandas&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-475569?style=flat-square&logo=unity&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-90EE90?style=for-the-badge&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFE66D?style=for-the-badge&logo=mongodb&logoColor=black)
+<br>
 
-</td>
-</tr>
-</table>
-
-### **📱 Mobile & Other**
-
-![React Native](https://img.shields.io/badge/React_Native-95E1D3?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-00BAFD?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4ECDC4?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FFE66D?style=for-the-badge&logo=pandas&logoColor=black)
-
----
-
-## 📊 **GitHub Analytics**
+## GitHub Analytics
 
 <div align="center">
 
-![Ebinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebinesh999&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffb700&text_color=000&title_color=ff006e)
+![Ebinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebinesh999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e&icon_color=0f766e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ebinesh999&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ebinesh999&theme=radical&hide_border=true&layout=compact&bg_color=ffb700&text_color=000&title_color=ff006e)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ebinesh999&theme=radical&hide_border=true&background=ffb700&stroke=ff006e&ring=ff006e&fire=ff006e&currStreakNum=000&sideNums=000)
-
-</div>
-
----
-
-## 🎨 **Featured Projects**
-
-<div align="center">
-
-### 💻 **Web Development**
-Full-stack web applications with modern frameworks & clean architecture
-
-### 📱 **Mobile Apps**
-Cross-platform applications using React Native & Flutter
-
-### 🔬 **Data Science**
-Analytics & visualization projects using Python & Pandas
-
-### 🎮 **Game Development**
-Interactive games & 3D experiences with Unity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ebinesh999&hide_border=true&theme=tokyonight&background=0d1117&stroke=0f766e&ring=0f766e&fire=0f766e)
 
 </div>
 
-> **👉 [View All Projects](https://github.com/ebinesh999?tab=repositories)**
+<br>
 
----
+## Focus Areas
 
-## 🎯 **Skill Matrix**
+| | |
+|---|---|
+| **Data Engineering** | ETL pipelines, SQL transformation, expression translation, parser optimization |
+| **Cloud Data Platforms** | Migration between Snowflake, BigQuery, Databricks, Azure, PostgreSQL |
+| **Automation** | Metadata-driven config, JSON-based workflows, low-code/no-code integration |
+| **Applied AI** | Generative AI, LLMs/SLMs, AI-driven product engineering |
+| **Full Stack** | Web & mobile apps with React, Angular, Node.js, React Native, Flutter |
 
-```
-FRONTEND          ████████░░ 85%
-BACKEND           ████████░░ 80%
-DATABASES         ███████░░░ 75%
-PROBLEM SOLVING   █████████░ 90%
-COMMUNICATION     ████████░░ 80%
-LEADERSHIP        ███████░░░ 75%
-```
+> **[View all repositories →](https://github.com/ebinesh999?tab=repositories)**
 
----
+<br>
 
-## 🌟 **Expertise Highlights**
-
-<table>
-<tr>
-<td align="center">
-  <h3>🎨 UI/UX</h3>
-  <p>Responsive & intuitive</p>
-</td>
-<td align="center">
-  <h3>⚡ Performance</h3>
-  <p>Optimized & fast</p>
-</td>
-<td align="center">
-  <h3>🔐 Scalability</h3>
-  <p>Enterprise-ready</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <h3>📡 API Design</h3>
-  <p>RESTful & clean</p>
-</td>
-<td align="center">
-  <h3>💾 Database</h3>
-  <p>Efficient & structured</p>
-</td>
-<td align="center">
-  <h3>🚀 Deployment</h3>
-  <p>Cloud-ready</p>
-</td>
-</tr>
-</table>
-
----
-
-## 💬 **Motivation & Philosophy**
-
-> 🎯 **"Believe in yourself and you will be unstoppable"**
-
-> Every line of code tells a story. Every bug fixed is a lesson learned. Every project shipped is a victory celebrated.
-
----
-
-## 🔗 **Let's Connect**
+## Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebineshmaverick)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ebinesh_m9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamil_pathavan)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@karuthukutty1861)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3E50?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ebinesh)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@ebinesh_m9)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebinezerrule@gmail.com)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3E50?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ebinesh)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@karuthukutty1861)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamil_pathavan)
 
 </div>
 
----
-
 <div align="center">
 
-### 🚀 **Always Learning | Always Growing | Always Coding**
-
-**Made with 💖 by Ebinesh M** | *Last Updated: 2024*
+*"Believe in yourself and you will be unstoppable."*
 
 </div>
