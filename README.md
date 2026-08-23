@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ebinesh999?style=flat-square&color=0f766e&logo=github&label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/ebinesh999?style=flat-square&color=0f766e&label=Stars)
 
-[Email](mailto:ebinezerrule@gmail.com) · [LinkedIn](https://linkedin.com/in/ebineshmaverick) · [GitHub](https://github.com/ebinesh999) · [Twitter](https://twitter.com/@ebinesh_m9)
+[Email](mailto:ebineshm14@gmail.com) · [LinkedIn](https://linkedin.com/in/ebineshmaverick) · [GitHub](https://github.com/ebinesh999) · [Twitter](https://twitter.com/@ebinesh_m9)
 
 </div>
 
@@ -51,20 +51,11 @@ Beyond that, I have a full-stack development background (web + mobile) and a str
 ![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white)
 
-**Web & Mobile**
-
-![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-334155?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-334155?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-334155?style=flat-square&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-334155?style=flat-square&logo=bootstrap&logoColor=white)
-
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-475569?style=flat-square&logo=linux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-475569?style=flat-square&logo=pandas&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-475569?style=flat-square&logo=unity&logoColor=white)
 
 <br>
 
@@ -75,7 +66,17 @@ Beyond that, I have a full-stack development background (web + mobile) and a str
 ![Ebinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebinesh999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e&icon_color=0f766e)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ebinesh999&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0f766e)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ebinesh999&hide_border=true&theme=tokyonight&background=0d1117&stroke=0f766e&ring=0f766e&fire=0f766e)
+![GitHub Streak](https://streak-stats.demolab.com?user=ebinesh999&hide_border=true&theme=tokyonight&background=0d1117&stroke=0f766e&ring=0f766e&fire=0f766e)
+
+</div>
+
+<br>
+
+## LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ebinezerrule?theme=dark&ext=heatmap)](https://leetcode.com/u/ebinezerrule/)
 
 </div>
 
@@ -89,7 +90,6 @@ Beyond that, I have a full-stack development background (web + mobile) and a str
 | **Cloud Data Platforms** | Migration between Snowflake, BigQuery, Databricks, Azure, PostgreSQL |
 | **Automation** | Metadata-driven config, JSON-based workflows, low-code/no-code integration |
 | **Applied AI** | Generative AI, LLMs/SLMs, AI-driven product engineering |
-| **Full Stack** | Web & mobile apps with React, Angular, Node.js, React Native, Flutter |
 
 > **[View all repositories →](https://github.com/ebinesh999?tab=repositories)**
 
@@ -100,11 +100,7 @@ Beyond that, I have a full-stack development background (web + mobile) and a str
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebineshmaverick)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@ebinesh_m9)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebinezerrule@gmail.com)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3E50?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ebinesh)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@karuthukutty1861)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamil_pathavan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebineshm14@gmail.com)
 
 </div>
 
